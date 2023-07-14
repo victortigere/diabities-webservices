@@ -1,0 +1,4 @@
+com\zimtecc\business\model\BaseEntity.class
+com\zimtecc\business\model\Clinic.class
+com\zimtecc\business\ClinicApplication.class
+com\zimtecc\business\repository\ClinicRepository.class
